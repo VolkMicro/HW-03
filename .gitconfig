@@ -1,0 +1,6 @@
+[user]
+    name = VolkMicro
+    email = VolkMicro@gmail.com
+
+[alias]
+    history = log --graph
